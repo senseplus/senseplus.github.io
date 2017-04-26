@@ -3189,7 +3189,7 @@
 				.wrapper.style2 button.special,
 				.wrapper.style2 .button.special {
 					box-shadow: none;
-					background-color: #4696e5;
+					background-color: #2f4b6b;
 					color: #ffffff !important;
 				}
 
@@ -3206,7 +3206,7 @@
 					.wrapper.style2 input[type="button"].special:active,
 					.wrapper.style2 button.special:active,
 					.wrapper.style2 .button.special:active {
-						background-color: #3089e2;
+						background-color: #2f4b6b;
 					}
 
 			.wrapper.style2 label {
@@ -3627,8 +3627,8 @@
 /* Header */
 
 	#header {
-		background-color: #4696e5;
-		color: #d0e4f8;
+		background-color: #e35a62;
+		color: #feced1;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -3683,7 +3683,7 @@
 			#header .button.special {
 				box-shadow: none;
 				background-color: #ffffff;
-				color: #4696e5 !important;
+				color: #2f4b6b !important;
 			}
 
 		#header label {
