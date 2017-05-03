@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1280 800" style="enable-background:new 0 0 1280 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2F4B6B;}
+	.st1{fill:none;stroke:#2F4B6B;stroke-width:15;stroke-miterlimit:10;}
+	.st2{font-family:'SFUIDisplay-Bold';}
+	.st3{font-size:77.3116px;}
+	.st4{clip-path:url(#SVGID_2_);}
+	.st5{fill:#E35A62;}
+	.st6{font-family:'AcierBATText-Noir';}
+	.st7{font-size:255.2502px;}
+</style>
+<path class="st0" d="M216.4,306.9c-17.2,0-33.4,4.4-47.5,12.2c12.5,2.9,21.8,14.1,21.8,27.5c0,15.6-12.6,28.2-28.2,28.2
+	c-14.2,0-26-10.5-27.9-24.2C124.2,366.2,118,385,118,405.3c0,54.3,44,98.3,98.3,98.3s98.3-44,98.3-98.3S270.7,306.9,216.4,306.9z"/>
+<circle class="st1" cx="216.4" cy="405.3" r="147.5"/>
+<text transform="matrix(1 0 0 1 332.084 299.5806)" class="st0 st2 st3">+</text>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="393.8" y="270.6" width="1047.7" height="269.4"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st4">
+			<text transform="matrix(1 0 0 1 432.2402 484.4124)" class="st5 st6 st7">SENSE+</text>
+		</g>
+	</g>
+</g>
+</svg>
