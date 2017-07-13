@@ -27,7 +27,7 @@ You can use all the following commands:
 
 ### `Friend`
 you can recognize your friends
-### `Add Person`
+### `Add Friend`
 how to add a new person's faces to our database? Here you go
 ### `Color`
 recognize color
@@ -46,7 +46,7 @@ Just hold your phone vertically, we will start take picture automatically. If yo
 
 ## Enquires and Feedback
 
-If any part of how to use is still confused, or you have any words for us, please feel free to contact our develop directly! 
+If any part of how to use is still confused, or you have any words for us, please feel free to contact our developer directly! 
 > Derek Mingyu MA
 > +1 (240) 467-1647
 > derek.ma@connect.polyu.hk
